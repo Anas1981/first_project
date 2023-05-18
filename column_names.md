@@ -6,7 +6,7 @@
 - **bedroomsNumber** - # of bedrooms
 - **bathroomsNumber** - # of bathrooms
 - **sqft_livingsquare** - footage of the home
-- **sqft_lotsquare** - footage of the lot
+- **sqft_lotsquare** - footage of the lot  " area of house "
 - **floorsTotal** - floors (levels) in house
 - **waterfront** - House which has a view to a waterfront
 - **view** - Has been viewed
@@ -19,5 +19,5 @@
 - **zipcode** - zip
 - **lat** - Latitude coordinate
 - **long** - Longitude coordinate
-- **sqft_living15** - The square footage of interior housing living space for the nearest 15 neighbors
+- **sqft_living15** - The square footage of interior housing living space for the nearest 15 neighbors  "The square footage of interior housing living space for the nearest 15 neighbors "
 - **sqft_lot15** - The square footage of the land lots of the nearest 15 neighbors
