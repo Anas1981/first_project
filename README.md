@@ -1,6 +1,8 @@
-# ds-project-template
+# A Brief about the Project 
 
-Template for creating ds simple projects
+This project aims at helping Mr. Charles Christensen, as the principal stakeholder, to make better financial decisions regarding selling and renovating houses with the potential for big investment returns, with a particular attention paid to the property’s immediate neighbourhood and the time needed for the transaction to be profitably concluded. 
+
+
 
 ## Requirements
 
@@ -17,13 +19,9 @@ One of the first steps when starting any data science project is to create a vir
 * upgrading `pip` (This step is not absolutely necessary, but will save you trouble when installing some packages.)
 * installing the required packages via `pip`
 
-At the end, you want to make sure that people who are interested in your project can create an identical environment on their own computer in order to be able to run your code without running into errors. Therefore you can create a `requirements file` and add it to your repository. You can create such a file by running the following command: 
+At the end, we attached some summeries and recommendation for  Mr. Charles Christensen
 
-```bash
-pip freeze > requirements.txt
-```
 
-*Note: In rare case such a requirements file created with `pip freeze` might not ensure that another (especially M1 chip) user can install and execute it properly. This can happen if libraries need to be compiled (e.g. SciPy). Then it also depends on environment variables and the actual system libraries.*
 
 ### Unit testing (Optional)
 
@@ -38,11 +36,17 @@ This command will execute all the functions in your project that start with the 
 
 ### Environment
 
-This repo contains a requirements.txt file with a list of all the packages and dependencies you will need. Before you install the virtual environment, make sure to install postgresql if you haven't done it before.
+This repo contains a requirements.txt file with a list of all the packages and dependencies you will need. Before you install the virtual environment, 
 
 ```bash
-brew update
-brew install postgresql
+altair==4.1.0
+jupyterlab==3.2.6
+ipywidgets==7.6.5
+matplotlib==3.5.1
+pandas==1.3.5
+jupyterlab-dash==0.1.0a3
+seaborn==0.11.1
+missingno==0.5.1
 ```
 
 In order to install the environment you can use the following commands:
