@@ -2,7 +2,16 @@
 
 This project aims at helping Mr. Charles Christensen, as the principal stakeholder, to make better financial decisions regarding selling and renovating houses with the potential for big investment returns, with a particular attention paid to the property’s immediate neighbourhood and the time needed for the transaction to be profitably concluded. 
 
+## Major Questions and Hypotheses
+ 1-Question: Does year or month or days has great impact for sales ? 
+Hypothesis : there more sale in month more than another month , there are specific day days has more sale than another
+2-Question :Dose renovation of house impact  average price of sales ?
+Hypothesis: renovated house has price more , while non renovated house has lower price
+Question 3: Does the property’s location or geographical latitude influence its price?
+Hypothesis: the prices of house near center and river has higher prices , while house located  in south or north has lower prices
 
+
+ 
 
 ## Requirements
 
