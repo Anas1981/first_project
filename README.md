@@ -2,6 +2,9 @@
 
 This project aims at helping Mr. Charles Christensen, as the principal stakeholder, to make better financial decisions regarding selling and renovating houses with the potential for big investment returns, with a particular attention paid to the property’s immediate neighbourhood and the time needed for the transaction to be profitably concluded. 
 
+
+At the end, we attached some summeries and recommendation for  Mr. Charles Christensen
+
 ## Major Questions and Hypotheses
  1-Question: Does year or month or days has great impact for sales ? 
 * Hypothesis : there more sale in month more than another month , there are specific day days has more sale than another
@@ -30,19 +33,9 @@ One of the first steps when starting any data science project is to create a vir
 * upgrading `pip` (This step is not absolutely necessary, but will save you trouble when installing some packages.)
 * installing the required packages via `pip`
 
-At the end, we attached some summeries and recommendation for  Mr. Charles Christensen
 
 
 
-### Unit testing (Optional)
-
-If you write python scripts for your data processing methods, you can also write unit tests. In order to run the tests execute in terminal:
-
-```bash
-pytest
-```
-
-This command will execute all the functions in your project that start with the word **test**.
 
 
 ### Environment
